@@ -545,7 +545,7 @@ function addHeader() {
 	<div class="header group">
         <div class="logo">
             <a href="index.html">
-                <img src="img/logo.jpg" alt="Trang chủ Smartphone Store" title="Trang chủ Smartphone Store">
+                <img src="https://intriphat.com/wp-content/uploads/2024/04/logo-cua-hang-dien-thoai-10.jpg" height: 300px;width: 300px; alt="Trang chủ CITYMOBILE" title="Trang chủ CITYMOBILE">
             </a>
         </div> <!-- End Logo -->
 
